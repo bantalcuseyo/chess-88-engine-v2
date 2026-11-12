@@ -63,4 +63,4 @@ supplied list, so `legal_moves[0]` was played.
 
 ## License
 
-MIT, see `LICENSE`.
+MIT, see `LICENSE` (SPDX-License-Identifier: MIT).
