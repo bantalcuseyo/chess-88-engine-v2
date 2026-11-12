@@ -1,0 +1,13 @@
+# development artefacts, not part of the entry snapshot
+engine.py
+payload_src.py
+pack.py
+verify.py
+div.py
+perft_check.py
+test_packed.py
+timing.py
+proto_test.py
+sample.jsonl
+__pycache__/
+*.pyc
